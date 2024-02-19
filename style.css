@@ -1,0 +1,78 @@
+h1 {
+    color: royalblue;
+    font-style: sans-serif;
+}
+
+div.rosa {
+    background-color: lightpink;
+}
+
+div.azul {
+    background-color: aliceblue;
+}
+
+a.amarillo:hover {
+    background-color: yellow;
+    color: black;
+}
+
+section.salmon {
+    position: relative;
+    background-color: lightsalmon;
+    width: 500px;
+    height: 340px;
+    left: 200px;
+    top: 100px;
+}
+
+section.rojo {
+    position: relative;
+    background-color: lightseagreen;
+    width: 500px;
+    height: 340px;
+    left: 600px;
+    top: -550px;
+    
+}
+
+a {
+    color: blue;
+    text-align: center;
+}
+
+img {
+    position: relative;
+    height: 250px;
+    width: 300px;
+    left: 100px;
+}
+
+a.rojo {
+    color: red;
+    text-align: center;
+}
+
+
+section.salmonuno {
+    position: relative;
+    background-color: lightsalmon;
+    width: 500px;
+    height: 340px;
+    left: 1000px;
+    top: -100px;
+
+}
+
+footer {
+    position: relative;
+    text-align: center;
+    background-color: yellow;
+    height: 50px; 
+    top: -200px; 
+}
+
+p.footer {
+    position: relative;
+    color: blue;
+    top: 20px;
+}

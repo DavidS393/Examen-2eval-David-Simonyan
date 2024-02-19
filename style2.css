@@ -1,0 +1,53 @@
+h1 {
+    color: royalblue;
+}
+
+div.rosa {
+    background-color: lightpink;
+}
+
+div.azul {
+    background-color: aliceblue;
+}
+
+a.amarillo:hover {
+    background-color: yellow;
+    color: black;
+}
+
+section.salmon {
+    position: relative;
+    background-color: lightsalmon;
+    width: 500px;
+    height: 340px;
+    left: 100px;
+    top: 100px;
+    color: blue;
+}
+
+h3 {
+    text-align: center;
+}
+
+section.rojo {
+    position: relative;
+    background-color: lightgreen;
+    width: 500px;
+    height: 240px;
+    left: 900px;
+    top: -250px;
+    color: yellow;
+}
+
+ol {
+    position: relative;
+    top: 30px;
+    left: 130px;
+    
+}
+
+h3.azul {
+    position: relative;
+    color: blue;
+    top: 20px;
+}
